@@ -1,4 +1,8 @@
 # Tesla Prep
+
+This is a swedish translation of the orginal tesla-prep found here: 
+[https://github.com/mykeln/teslaprep](https://github.com/mykeln/teslaprep)
+
 Detta är en guide för att köpa, ta mot och äga en Tesla Model 3 eller Model Y
 
 Letar du bara efter en checklista?
