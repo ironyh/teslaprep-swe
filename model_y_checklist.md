@@ -1,170 +1,170 @@
-# Model Y Checklist #
+# Model Y Checklista #
 
-This is available as a [mobile app for iOS and Android](https://teslaprep.glideapp.io), too.
+Detta finns tillgänglig som [mobil app för iOS och Android](https://teslaprep.glideapp.io), också (engelska).
 
-This pre-drive checklist is designed to be done in a specific flow to save time and make sure nothing is missed. You will essentially do several "laps" around the car. Start at the beginning and work your way down the list. By the end, your car will be fully reviewed. Feel free to print this out and bring it, along with a pen. Don't feel like you need to rush through the inspection. The delivery team at Tesla will certainly seem like they want to move quickly, but you don't need to leave the lot until you're 100% satisfied. Take your time
-
+Denna lista är designad för att genomföras i ett speciellt flow så att det sparar tid och minskar risken för missar. Du kommer göra flera varv runt bilen. Börja i början av listan och arbeta dig ner. När samtliga steg är genomförda kommer bilen vara helt kontrollerad. Känn dig fri att skriva ut den och ta med den tillsammans med en penna. Känn inte att du behöver skynda dig genom inspektionen. Leveransteamet på Tesla kommer verkligen se ut som om de vill att det ska gå snabbt, men du behöver inte lämna förrän du är 100% nöjd. Ta din tid.
 ---
 
-## Things to Bring with You ##
-1. [ ] If your vehicle will be registered to more than one person, each person on the registration needs to be at the delivery appointment to sign final documents.
-1. [ ] Driver's license
-1. [ ] Your smartphone with the Tesla app installed and signed in
-1. [ ] Written or digital proof of your down payment having been made and the final payment details; If you are financing, make sure your loan has been funded before you arrive to take delivery and that you have some kind of proof you can provide to Tesla should they ask about it.
-1. [ ] Proof of insurance
-1. [ ] Your trade-in car
-1. [ ] USB-A, USB-C, and 12VDC cables for testing
-1. [ ] Flashlight (since the delivery area where you will inspect your vehicle may be dark)
-1. [ ] Any accessories you want to install immediately
+## Saker att ta med dig ##
+1. [ ] Om ditt fordon är registrerat på fler än en person, behöver samtliga personer vara närvarande för att signera slutgiltiga dokument. 
+1. [ ] Körkort
+1. [ ] Din telefon, med Telsa-app som du är inloggad på
+1. [ ] Skriven eller digitalt underlag att finansieringen är klar. Det behöver inte vara färdigt närmaren än dagen innan. Om du finansierar bilen behöver du se till att detta är klart innan du är på plats och att du har någon slags bevis som du kan visa om Tesla skulle fråga om det.
+1. [ ] ~~ Försäkring ~~ Två veckors föräkring ingår vid upphämting
+1. [ ] Din inbytesbil
+1. [ ] USB-A, USB-C, och 12VDC kablar för testning
+1. [ ] Ficklanmpa (då mottagningsområdet där du inpekterar ditt fordon kan vara mörkt)
+1. [ ] Alla tillbehör du vill installera direkt
 
 
-## SECTION A - Verify pre-delivery vehicle records ##
+## Del A - Verifiera uppgifter du fått före leverans ##
 
-> Make sure the car you ordered is the car you're getting!
+> Var säker på att du får den bilen du har beställt!
 
-1. [ ] Check for the correct full name and address on your paperwork
-1. [ ] Confirm the vehicle's VIN matches your paperwork
-1. [ ] Check the vehicle's "About" screen for any information that does not match the vehicle (found by tapping the car icon in the bottom-left, then tapping Software)
-1. [ ] Verify that the vehicle's Monroney record matches your configuration
-1. [ ] Verify that the vehicle's body color, interior, and wheels match what you configured
-1. [ ] Confirm all 4 Gemini hubcaps are present and properly attached (if applicable)
-1. [ ] For Texas, ensure you have the original Texas Vehicle Inspection Report
-
-
-## SECTION B - Exterior inspection ##
-
-### Panel gaps ###
-
-> Do a lap of the car, check for any obvious body panel misalignment, or large gaps
-
-1. [ ] Front of frunk properly aligns with where it meets the bumper
-1. [ ] Trunk arms properly align with where they meet the left and right quarter panels
-1. [ ] Headlights and rear lights are flush with the body
-1. [ ] Charging port is flush with the body
-1. [ ] Check for narrow, large, or uneven gaps between doors, headlights, and roof
-
-### Paint condition walkaround ###
-
-> Looking for scrapes, damage, overspray, underspray, dents and dings. Include all trim and door handles as part of this review
-
-**WITH ALL DOORS CLOSED**
-1. [ ] Inspect vehicle underside plastic trim (front and rear) for signs of scraping, or damage or loose screws/plugs
-1. [ ] Front bumper
-1. [ ] Right front quarter panel
-1. [ ] Right front wheel
-1. [ ] Right passenger door
-1. [ ] Right rear door
-1. [ ] Right rear wheel
-1. [ ] Right rear quarter panel
-1. [ ] Trunk
-1. [ ] Rear bumper
-1. [ ] Left rear quarter panel
-1. [ ] Left rear wheel
-1. [ ] Left rear door
-1. [ ] Driver's door
-1. [ ] Left front wheel
-1. [ ] Left front quarter panel
-1. [ ] Frunk
-
-**OPEN ALL DOORS, INCLUDING FRUNK, TRUNK**
-1. [ ] Test power liftgate operation on trunk
-1. [ ] Test Power liftgate height adjustment
-1. [ ] Test all doors (including frunk and trunk) to ensure they open and close without unreasonable effort or sound
-1. [ ] Ensure door windows auto-close completely when doors are closed
-1. [ ] Check the frunk/trunk lighting (there are 2 trunk lights)
-1. [ ] Check paint in areas such as door hinges, the bottom of the frunk/trunk, etc. that are not visible when doors are closed
-
-### Glass and seal condition
-1. [ ] Inspect all glass (including side mirrors) for signs of distortion, ripples, scratches, or cracks
-1. [ ] Inspect the weather seals around door gaps and windows
-1. [ ] Verify that the water guards that line the trunk (below the rear windshield) are free and clear
-1. [ ] Check for proper windshield and windshield trim installation
-1. [ ] Inspect all edges of the roof glass panel and rear window
+1. [ ] Kontrollera hela namnet och adressen på dokumenten
+1. [ ] Kontrollera att bilens VIN matchar det på ditt konto (i framfönstret)
+1. [ ] Kontrollera bilens "About"-skräm för så att all information matchar fordonets (hittas genom att klicka bilikonen i nedre vänstra hörnet och sedan Software (Programvara))
+1. [X] ~~ Verify that the vehicle's Monroney record matches your configuration ~~
+1. [ ] Verifiera att fordonets färg, ineriör och hjul matchar det du konfigurerat
+1. [ ] Bekräfta att alla 4 Gemini navkapslar är är korrekt monterade (om beställt)
+1. [X] ~~ For Texas, ensure you have the original Texas Vehicle Inspection Report ~~
 
 
-## SECTION C - Interior inspection
+## Del B - Inspektion av exteriör ##
 
-> Inspect interior seat upholstery, door surfaces, dash, headliner and carpets (including passenger compartment, frunk, and trunk)
+### Panelglapp ###
 
-**SIT IN DRIVER'S SEAT**
-1. [ ] Check for any error messages on the display screen
-1. [ ] Check all four windows to ensure they roll up and down all the way properly including auto-up/down function
-1. [ ] Test the windshield wipers
-1. [ ] Test the rearview camera
-1. [ ] Check side mirrors for proper operation of folding and position adjustment
-1. [ ] Test the steering wheel position controls to ensure proper operation
-1. [ ] Press the center of the steering wheel to make sure the vehicle's horn works
-1. [ ] Check the rearview mirror for any warping or distortion
-1. [ ] Check sunvisor operation, mirror condition and lighting operation
-1. [ ] Front overhead driver and passenger lights
-1. [ ] Check center console cover slide operation and middle/rear compartment lights
-1. [ ] Check glovebox opening and closing functions (and lighting)
-1. [ ] Check seat all position controls
-1. [ ] Check that both front seats don't squeak when moving (check all directions of motion)
-1. [ ] Check heated seats
-1. [ ] Check driver and passenger footwell lighting
-1. [ ] Check steering wheel control lights (they may need to be enabled in Driver settings)
-1. [ ] Test connectivity of wireless phone charger
-1. [ ] Test connectivity in both USB-C ports in center console
-1. [ ] Test 12 volt DC receptable in center console has power
-1. [ ] Test the HVAC and listen for strange noises on both hot and cold settings full power
-1. [ ] Test Park Assist sensor by pressing the break, put the car in Drive or Reverse and have someone walk in front of the car
-1. [ ] Test Blind Spot camera by turning on Automatic Blind Spot camera setting, then turn your right/left lane changing signal to see the image from the camera (only version 11)
+> Gör en runda runt builen. Kolla efter uppenbarta felställningar på panelerna och stora glapp
 
-### Infotainment inspection
-1. [ ] Test the sound system to ensure all speakers are working (move fade/balance to all four points to verify)
-1. [ ] Tap the "Toybox" icon at the bottom right of the screen and launch the Sketchpad app. Leave the Sketchpad up for a minute to make sure there are no phantom touches happening on the display, or dead pixels
+1. [ ] Främre delen av huven är korrekt i linje med där den möter stötfångaren
+1. [ ] Fjädringsamrar (länkarmar) i motorhuven (frunken) är korrekt i linje med där de möter vänster och höger kvarspaneler
+1. [ ] Strålkastare och bakljus ligger i plan med karossen och sticker inte ut
+1. [ ] Laddningsport är i plan med kroppen av bilen
+1. [ ] Kontrollera om det finns smala, stora eller ojämna mellanrum mellan dörrar, strålkastare och tak
 
-**GET OUT OF THE DRIVER'S SEAT**
-1. [ ] Gently test the driver and passenger door emergency releases
-1. [ ] Check driver and passenger door puddle lights
-1. [ ] Check rear left and right door pocket lighting
-1. [ ] Check all door latch button lights
-1. [ ] Check all door window button lights
-1. [ ] Check front, rear, and middle seatbelts for proper operation
-1. [ ] Check rear left and right clothing hook operation in the rear passenger area
-1. [ ] Check the rear seats for proper fold-down operation
-1. [ ] Try to lift the bottom of the back seats to ensure it is securely attached to their base
-1. [ ] Check rear left and right overhead lights
-1. [ ] Test connectivity in all USB ports (1 USB-A/1 USB-C in the front, 2 USB-C in the rear)
+### Genomgång av lackskick ###
 
+> Leta efter repor, skador, överspray, färgpölar, bucklor och repor. Inkludera alla kanter- och dörrhandtag som en del av denna genomgång
 
-## SECTION D - Lighting inspection
-1. [ ] Front headlights (low and high-beam) operation and alignment. Ensure there is no condensation inside the light's housing
-1. [ ] Front park lights
-1. [ ] Front fog lights
+**MED SAMTLIGA DÖRRAR STGÄNDA**
+1. [ ] Inpektera plastbeklädnad på fordonets undersida (fram och bak) efter tecken på skrapning, eller skada eller lösa skruvar/pluggar
+1. [ ] Främre stötfångare
+1. [ ] Höger främre kvartspanel
+1. [ ] Höger framhjul
+1. [ ] Höger passagerardörr
+1. [ ] Höger bakdörr
+1. [ ] Höger bakhjul
+1. [ ] Höger bakre kvartspanel
+1. [ ] Bagagelucka
+1. [ ] Bakre stötfångaren
+1. [ ] Vänster bakre kvartspanel
+1. [ ] Vänster bakhjul
+1. [ ] Vänster bakdörr
+1. [ ] Förardörr
+1. [ ] Vänster hjul fram
+1. [ ] Vänster kvartspanel i fram
+1. [ ] Huv
 
-**TURN ON HAZARD LIGHTS**
-1. [ ] Front turn signal lights
-1. [ ] Left and right turn signal lights
-1. [ ] Rear turn signal lights
-1. [ ] Rear running lights
-1. [ ] Rear brake lights. Ensure there is no condensation inside the light's housing
+**ÖPPNA ALLA DÖRRA INKLUSIVE HUV OCH BAGAGE**
+1. [ ] Testa den elektriska bakluckans funktion på bagageutrymmet
+1. [ ] Testa Power bakluckans höjdjustering (höj/sänk dörren och håll sen knappen på bakluckans undersida intryckt under tre sekunder tills du hör en tonsignal som bekräftelse)
+1. [ ] Testa alla dörra (inklusive bagage och huv) och säkerställ att de kan öppnas och stängas lätt och utan knarrande elle gniasslande ljud
+1. [ ] Se till att alla fönster automatiskt stängs helt när dörrarna är stängda
+1. [ ] Kolla bagaglucka och huvens belysning (det ska vara 2 stycken bagagelampor)
+1. [ ] Kontrollera färg i områden som dörrgångjärn, i botten på frunken/bagageutrymmet som du inte redan kontrollerat när dörrarna var stängda.
+
+### Fönstrens och tätningens skick
+1. [ ] Inspektera alla fönster (inklusive sidospeglarna). Kontrollera efter förvrängningar, vågor, repor och sprikor
+1. [ ] Inspektera vädertätningarna runt dörrspringor och fönster
+1. [ ] Kontrollera att vattenskydden som kantar bagageutrymmet (under den bakre vindrutan) är fria och klara
+1. [ ] Kontrollera att vindrutan och vindrutebeklädnaden är korrekt installerad
+1. [ ] Inspektera alla kanter på takglaspanelen och bakrutan
 
 
-## SECTION E - Charging ability
-1. [ ] Check the charge port door for proper operation and alignment (manual tap, through screen/app, and button on charger)
-1. [ ] Check charge port indicator light
-1. [ ] Ensure the vehicle will accept a charge at the Supercharger at the delivery center if avaliable
-1. [ ] Check for J1772 adapter
+## DEL C - Invändig inspektion
+
+> Inspektera invändig sätesklädsel, dörrytor, instrumentbräda, takklädnad och mattor (inklusive passagerarutrymmet, i huven och bagageutrymmet)
+ 
+
+**SITT I FÖRARSÄTET**
+1. [ ] Kontrolelra så att inga felmeddelanden visas på skärmen
+1. [ ] Kontroller alla fyra fönster för att säkerställa att de går upp och ner ordentligt, inklusive auto-up/ner funktionen
+1. [ ] Testa vindrutetorkarna
+1. [ ] Testa backkameran genom att sätta i backen
+1. [ ] Kontrollera sidospeglarnas funktion för att vika in och justera position
+1. [ ] Testa rattens lägeskontroller för att säkerställa korrekt funktion
+1. [ ] Tryck på mitten av ratten för att se till att fordonets signalhorn fungerar
+1. [ ] Kontrollera backspegeln för eventuell skevhet eller förvrängning
+1. [ ] Kontrollera solskyddets funktion, spegelns skick och belysningens funktion
+1. [ ] Främre förar- och passagerarljus (läslamporna)
+1. [ ] Kontrollera mittkonsolens locks glidfunktion och mitt/bakre fackljus
+1. [ ] Kontrollera handskfackets öppnings- och stängningsfunktioner (och belysning)
+1. [ ] Kontrollera stolens alla lägesreglage
+1. [ ] Kontrollera att båda framsätena inte gnisslar när de rör sig (kontrollera alla rörelseriktningar)
+1. [ ] Kontrollera sätesuppvärmning
+1. [ ] Kontrollera förarens och passagerarens fotutrymmesbelysning
+1. [ ] Kontrollera rattens kontrolllampor (de kan behöva aktiveras i förarinställningarna)
+1. [ ] Testa anslutningen för trådlös telefonladdare
+1. [ ] Testa anslutning i båda USB-C-portarna i mittkonsolen
+1. [ ] Testa 12 volts DC-uttag i mittkonsolen har ström
+1. [ ] Testa värme, kyla och AC och lyssna efter konstiga ljud på både varma och kalla inställningar full effekt
+1. [ ] Testa Parkerings Assiststansens sensor genom att trycka på bromsen, sätta bilen i Drive eller Back och låt någon gå framför bilen
+1. [ ] Testa döda vinkeln-kameran genom att slå på den automatiska kamerainställningen för döda vinkeln, vrid sedan din höger/vänster filbytesignal för att se bilden från kameran (endast version 11)
+
+### Infotainment inspektion
+1. [ ] Testa ljudsystemet för att säkerställa att alla högtalare fungerar (flytta fade/balans till alla fyra punkter för att verifiera)
+1. [ ] Tryck på "Toybox"-ikonen längst ner till höger på skärmen och starta Sketchpad-appen. Lämna Sketchpad uppe i en minut för att se till att det inte händer några fantomberöringar på skärmen eller döda pixlar
+
+**STIG UR FÖRARSÄTET**
+1. [ ] Testa försiktigt förar- och passagerardörrens nödöppningar
+1. [ ] Kontrollera förar- och passagerardörrens markbelysning
+1. [ ]Kontrollera bakbelysningen på vänster och höger dörrfack
+1. [ ] Kontrollera lampor för dörrlåsknappar på alla dörrar
+1. [ ] Kontrollera alla fönsterknappsljus på alla dörrar
+1. [ ] Kontrollera främre, bakre och mellersta säkerhetsbälten för korrekt funktion
+1. [ ] Kontrollera den vänstra och högra klädkrokens funktion i passagerarutrymmet bak
+1. [ ] Kontrollera att baksätena kan fällas korrekt
+1. [ ] Försök att lyfta botten av baksätena för att säkerställa att den är ordentligt fastsatt på basen
+1. [ ] Kontrollera bakljus vänster och höger takljus
+1. [ ] Testa anslutningar i alla USB-portar (1 USB-A/1 USB-C på framsidan, 2 USB-C på baksidan)
 
 
-## SECTION F - Inspect pairing connectivity
-1. [ ] Test both key cards to ensure they work with your vehicle. Keep one key card on your person in case the phone app does not operate properly
-1. [ ] Pair your smartphone to your vehicle over Bluetooth and test features like music streaming, unlock, etc.
+## DEL D - Inspektion av belysning
+1. [ ] Frontstrålkastare (halv- och helljus) funktion och inriktning. Se till att det inte finns kondens inuti lampans hölje
+1. [ ] Parkeringsljus fram
+1. [ ] Främre dimljus
+
+**TÄNDA VARNINGSLJUS**
+1. [ ] Blinkers fram
+1. [ ] Vänster och höger blinkersljus
+1. [ ] Bakre blinkersljus
+1. [ ] Bakljus
+1. [ ] Bromsljus bak. Se till att det inte finns kondens inuti lampans hölje
 
 
-## SECTION G - Optional equipment
-1. [ ] Check for front license plate bracket (if applicable in your region)
-1. [ ] Check for the towing eye under the frunk mat
-1. [ ] Maryland state deliveries should include Tesla's official inflation kit (usually stowed in trunk)
-1. [ ] Verify that any additional floor mats are included (if ordered)
-1. [ ] Check for tow hitch equipment (if ordered)
-1. [ ] Check rear door Paint Protection Film (if ordered)
-1. [ ] Check Mud Flaps (if ordered)
+## DEL E - Laddningsförmåga
+1. [ ] Kontrollera laddningsportens lucka för korrekt funktion och inriktning (manuell tryckning, via skärm/app och knapp på laddaren)
+1. [ ] Kontrollera laddningsportens indikatorlampa
+1. [ ] Se till att fordonet tar emot en laddning vid Supercharger vid leveranscentret om det finns tillgängligt
+1. [ ] Leta efter en J1772 adapter
 
 
-## SECTION H - Paperwork / Final Items
-1. [ ] Ask your delivery specialist to make sure that your car is marked as DELIVERED in Tesla’s network. There have been reports of cars being delivered and the phone app doesn’t allow log in the following day.
-1. [ ] Verify that your car is marked as delivered on your phone app and that all features are working on the phone app
-1. [ ] Make sure you have copies of all paperwork necessary for good documentation of your purchase, including a copy of your signed purchase agreement. If your delivery specialist suggests that you can get your documents electronically on your Tesla account, ask for paper copies you can take with you anyway.
+## DEL F - Inspektera ihopkopplingen
+1. [ ] Testa båda nyckelkorten för att säkerställa att de fungerar med ditt fordon. Behåll ett nyckelkort på din person ifall telefonappen inte fungerar korrekt
+1. [ ] Para ihop din smartphone med ditt fordon via Bluetooth och testa funktioner som musikströmning, upplåsning etc.
+
+
+## DEL G - Extrautrusting utrustning
+1. [ ] Kontrollera om det finns en främre registreringsskyltsfäste 
+1. [ ] Kontrollera om det finns bogserögla under mattan i huven
+~~ 1. [ ] Maryland state deliveries should include Tesla's official inflation kit (usually stowed in trunk) ~~
+1. [ ] Kontrollera att eventuella extramattor som är beställda ligger med i bilen
+1. [ ] Kontrollera om det finns utrustning för dragkrok
+1. [ ] Kontrollera bakdörrens färgskyddsfilm 
+1. [ ] Kontrollera stänklappar 
+
+
+## DEL H - Pappersarbete / slutförande
+1. [ ] ABe din leveransspecialist se till att din bil är märkt som LEVERERAD i Teslas nätverk. Det har förekommit rapporter om att bilar har levererats och telefonappen tillåter inte inloggning följande dag.
+1. [ ] Kontrollera att din bil är märkt som levererad på din telefonapp och att alla funktioner fungerar på telefonappen
+1. [ ] Se till att du har kopior av alla papper som behövs för att kunna dokumentera ditt köp, inklusive en kopia av ditt undertecknade köpeavtal. Om din leveransspecialist föreslår att du kan få dina dokument elektroniskt på ditt Tesla-konto, be om papperskopior som du kan ta med dig ändå.
