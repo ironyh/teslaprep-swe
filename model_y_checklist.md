@@ -55,10 +55,12 @@ Denna lista är designad för att genomföras i ett speciellt flow så att det s
 1. [ ] Höger bakdörr
 1. [ ] Höger bakhjul
 1. [ ] Höger bakre kvartspanel
+1. [ ] Plastskydd (PPF) på metallen framför höger bakhjul.
 1. [ ] Bagagelucka
 1. [ ] Bakre stötfångaren
 1. [ ] Vänster bakre kvartspanel
 1. [ ] Vänster bakhjul
+1. [ ] Plastskydd (PPF) på metallen framför vänster bakhjul
 1. [ ] Vänster bakdörr
 1. [ ] Förardörr
 1. [ ] Vänster hjul fram
