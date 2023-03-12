@@ -64,7 +64,7 @@ Kontrollera ditt Tesla-konto för ett tilldelat fordonsidentifikationsnummer (VI
 
 Om du har ett VIN tilldelat, ring din försäkring för att schemalägga täckningsdatumet för din leveransdag.
 
-~~ Vissa stater kräver att en fordonsbesiktning slutförs på en statligt certifierad inspektionsanläggning efter att du tagit äganderätten till bilen. Reglerna varierar beroende på delstat, men om du tidigare har ägt bilar i den delstat du bor i bör processen vara densamma som du alltid har känt till. Om du nyligen har flyttat till ett nytt tillstånd är detta något du vill se till att du tittar på. ~~
+~~Vissa stater kräver att en fordonsbesiktning slutförs på en statligt certifierad inspektionsanläggning efter att du tagit äganderätten till bilen. Reglerna varierar beroende på delstat, men om du tidigare har ägt bilar i den delstat du bor i bör processen vara densamma som du alltid har känt till. Om du nyligen har flyttat till ett nytt tillstånd är detta något du vill se till att du tittar på.~~
 
 
 ## När som helst före leveransdagen
@@ -140,4 +140,4 @@ After a year and a half of Tesla ownership, here are the accessories I have foun
 1. All-weather floor mats [OEM (my recommendation)](https://shop.tesla.com/product/model-3-all-weather-floor-liners). I keep these in my vehicle year-round. It has helped preserve the "new car smell," and is easy to keep clean.
 2. A [vinyl wrap](https://www.abstractocean.com/model-3-center-console-vinyl-wrap/) for the center console. Vinyl wraps are easy to install and (arguably) look better than stock.
 
-[*Back to Top*](#tesla-prep)
+[*Tillbaka till början*](#tesla-prep)
