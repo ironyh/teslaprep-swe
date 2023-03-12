@@ -6,7 +6,7 @@ This is a swedish translation of the orginal tesla-prep found here:
 Detta är en guide för att köpa, ta mot och äga en Tesla Model 3 eller Model Y
 
 Letar du bara efter en checklista?
-- Kolla [mobilappen för iOS och Android på engelska] (https://teslaprep.glideapp.io).
+- Kolla [mobilappen för iOS och Android på engelska](https://teslaprep.glideapp.io).
 - Hoppa till textfilerna [Model 3](model_3_checklist.md) / [Model Y](model_y_checklist.md).
 
 
