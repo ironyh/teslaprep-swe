@@ -10,7 +10,7 @@ Denna lista är designad för att genomföras i ett speciellt flow så att det s
 1. [ ] Körkort
 1. [ ] Din telefon, med Telsa-app som du är inloggad på
 1. [ ] Skriven eller digitalt underlag att finansieringen är klar. Det behöver inte vara färdigt närmaren än dagen innan. Om du finansierar bilen behöver du se till att detta är klart innan du är på plats och att du har någon slags bevis som du kan visa om Tesla skulle fråga om det.
-1. [ ] ~~ Försäkring ~~ Två veckors föräkring ingår vid upphämting
+1. [X] ~~Försäkring~~ Två veckors föräkring ingår vid upphämting
 1. [ ] Din inbytesbil
 1. [ ] USB-A, USB-C, och 12VDC kablar för testning
 1. [ ] Ficklanmpa (då mottagningsområdet där du inpekterar ditt fordon kan vara mörkt)
@@ -24,10 +24,10 @@ Denna lista är designad för att genomföras i ett speciellt flow så att det s
 1. [ ] Kontrollera hela namnet och adressen på dokumenten
 1. [ ] Kontrollera att bilens VIN matchar det på ditt konto (i framfönstret)
 1. [ ] Kontrollera bilens "About"-skräm för så att all information matchar fordonets (hittas genom att klicka bilikonen i nedre vänstra hörnet och sedan Software (Programvara))
-1. [X] ~~ Verify that the vehicle's Monroney record matches your configuration ~~
+1. [X] ~~Verify that the vehicle's Monroney record matches your configuration~~
 1. [ ] Verifiera att fordonets färg, ineriör och hjul matchar det du konfigurerat
 1. [ ] Bekräfta att alla 4 Gemini navkapslar är är korrekt monterade (om beställt)
-1. [X] ~~ For Texas, ensure you have the original Texas Vehicle Inspection Report ~~
+1. [X] ~~For Texas, ensure you have the original Texas Vehicle Inspection Repor~~
 
 
 ## Del B - Inspektion av exteriör ##
@@ -157,7 +157,7 @@ Denna lista är designad för att genomföras i ett speciellt flow så att det s
 ## DEL G - Extrautrusting utrustning
 1. [ ] Kontrollera om det finns en främre registreringsskyltsfäste 
 1. [ ] Kontrollera om det finns bogserögla under mattan i huven
-~~ 1. [ ] Maryland state deliveries should include Tesla's official inflation kit (usually stowed in trunk) ~~
+1. [ ] ~~Maryland state deliveries should include Tesla's official inflation kit (usually stowed in trunk)~~
 1. [ ] Kontrollera att eventuella extramattor som är beställda ligger med i bilen
 1. [ ] Kontrollera om det finns utrustning för dragkrok
 1. [ ] Kontrollera bakdörrens färgskyddsfilm 
@@ -168,3 +168,4 @@ Denna lista är designad för att genomföras i ett speciellt flow så att det s
 1. [ ] ABe din leveransspecialist se till att din bil är märkt som LEVERERAD i Teslas nätverk. Det har förekommit rapporter om att bilar har levererats och telefonappen tillåter inte inloggning följande dag.
 1. [ ] Kontrollera att din bil är märkt som levererad på din telefonapp och att alla funktioner fungerar på telefonappen
 1. [ ] Se till att du har kopior av alla papper som behövs för att kunna dokumentera ditt köp, inklusive en kopia av ditt undertecknade köpeavtal. Om din leveransspecialist föreslår att du kan få dina dokument elektroniskt på ditt Tesla-konto, be om papperskopior som du kan ta med dig ändå.
+1. [ ] Försäkring
